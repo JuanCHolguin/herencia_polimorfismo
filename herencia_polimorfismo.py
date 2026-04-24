@@ -19,7 +19,7 @@ class Empleado:
 @dataclass
 class Gerente(Empleado):
     bono: float
-    return super
+
 
 @dataclass
 class Desarrollador(Empleado):
